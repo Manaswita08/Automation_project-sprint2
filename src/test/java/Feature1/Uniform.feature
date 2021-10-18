@@ -8,7 +8,7 @@ Feature: Automation testing for Uniform Website
     And Admin navigates to the Reports section
     Then Admin navigates to the Sales section
 
-  
+ 
   Scenario Outline: Validate Sales orders start date and end date functionality
     Given Admin navigates to the orders page on clicking orders
     When Admin selects the calendar icon from date start field 
@@ -99,7 +99,7 @@ Feature: Automation testing for Uniform Website
          
             
    #############################################################################################################################         
-    @tag1
+   
     Scenario Outline: Validate Sales Shipping start date and end date functionality
 	   Given Admin navigates to the shipping page on clicking shipping
 	    When Admin selects the calendar icon from date start field 

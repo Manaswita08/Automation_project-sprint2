@@ -112,7 +112,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6609432700,
+  "duration": 4972395900,
   "status": "passed"
 });
 formatter.background({
@@ -156,7 +156,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10932349100,
+  "duration": 6636682400,
   "status": "passed"
 });
 formatter.match({
@@ -173,35 +173,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 4055329300,
+  "duration": 385050200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2551248100,
+  "duration": 2040006300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2029500000,
+  "duration": 2014231400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2132325100,
+  "duration": 8904638300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2131553400,
+  "duration": 2103007200,
   "status": "passed"
 });
 formatter.scenario({
@@ -264,35 +264,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5107397000,
+  "duration": 5895160100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2237165800,
+  "duration": 2148498600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 3865824700,
+  "duration": 2127840800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1123957900,
+  "duration": 1209684100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1119505800,
+  "duration": 1544718600,
   "status": "passed"
 });
 formatter.match({
@@ -309,8 +309,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 580980600,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:193)\r\n\tat ✽.When Admin enters \"!%$#\",\"2021-10-06\" in the start date and end date fields(Uniform.feature:18)\r\n",
+  "duration": 1055730100,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:195)\r\n\tat ✽.When Admin enters \"!%$#\",\"2021-10-06\" in the start date and end date fields(Uniform.feature:18)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -336,11 +336,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 60063189500,
+  "duration": 282045600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2763975600,
+  "duration": 2413722500,
   "status": "passed"
 });
 formatter.background({
@@ -384,7 +384,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9672270500,
+  "duration": 7884348800,
   "status": "passed"
 });
 formatter.match({
@@ -401,35 +401,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 404845200,
+  "duration": 200202300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2173568400,
+  "duration": 4756316100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2008990100,
+  "duration": 2011971200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2110136800,
+  "duration": 9952468300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2156658500,
+  "duration": 2099489100,
   "status": "passed"
 });
 formatter.scenario({
@@ -492,35 +492,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5095567100,
+  "duration": 5876078000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2133641100,
+  "duration": 2110316200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2119298500,
+  "duration": 2127060000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1098007900,
+  "duration": 1091481100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1126941900,
+  "duration": 1117771500,
   "status": "passed"
 });
 formatter.match({
@@ -537,8 +537,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 1518073700,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:198)\r\n\tat ✽.When Admin enters \"acfdefrt\",\"aaswered\" in the start date and end date fields(Uniform.feature:18)\r\n",
+  "duration": 449022700,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:200)\r\n\tat ✽.When Admin enters \"acfdefrt\",\"aaswered\" in the start date and end date fields(Uniform.feature:18)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -564,11 +564,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 1223748800,
+  "duration": 231353500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4330678600,
+  "duration": 2688788200,
   "status": "passed"
 });
 formatter.background({
@@ -612,7 +612,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9941199100,
+  "duration": 6446429000,
   "status": "passed"
 });
 formatter.match({
@@ -629,35 +629,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 390001200,
+  "duration": 228785800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2239469300,
+  "duration": 1756727400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2021850600,
+  "duration": 2007389200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2110258500,
+  "duration": 9368120700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2137959500,
+  "duration": 2125745300,
   "status": "passed"
 });
 formatter.scenario({
@@ -720,35 +720,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5135272700,
+  "duration": 5874575700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2160369800,
+  "duration": 2108086700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2334399600,
+  "duration": 2135157300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1209360800,
+  "duration": 1102262000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1183046300,
+  "duration": 1090363500,
   "status": "passed"
 });
 formatter.match({
@@ -765,8 +765,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 567408200,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:198)\r\n\tat ✽.When Admin enters \"21-12-2021\",\"20-12-2021\" in the start date and end date fields(Uniform.feature:18)\r\n",
+  "duration": 461071800,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:200)\r\n\tat ✽.When Admin enters \"21-12-2021\",\"20-12-2021\" in the start date and end date fields(Uniform.feature:18)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -792,11 +792,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 164425400,
+  "duration": 149494600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2549953200,
+  "duration": 2616052500,
   "status": "passed"
 });
 formatter.background({
@@ -840,7 +840,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9759338000,
+  "duration": 7095746900,
   "status": "passed"
 });
 formatter.match({
@@ -857,35 +857,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 447940800,
+  "duration": 335323400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2262357400,
+  "duration": 1919818900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2021556000,
+  "duration": 2015824700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2500016100,
+  "duration": 9106962500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2111414000,
+  "duration": 2095864400,
   "status": "passed"
 });
 formatter.scenario({
@@ -948,35 +948,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5014728700,
+  "duration": 5866994500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2143888500,
+  "duration": 2108676200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2140291600,
+  "duration": 2091154100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1110727600,
+  "duration": 1100343100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1124729800,
+  "duration": 1111390900,
   "status": "passed"
 });
 formatter.match({
@@ -993,8 +993,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 607818700,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:221)\r\n\tat ✽.When Admin enters \"2021-10-08\",\"2021-06-18\" in the start date and end date fields(Uniform.feature:18)\r\n",
+  "duration": 443238800,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:223)\r\n\tat ✽.When Admin enters \"2021-10-08\",\"2021-06-18\" in the start date and end date fields(Uniform.feature:18)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -1020,11 +1020,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 412198700,
+  "duration": 208233800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2607860300,
+  "duration": 2287852600,
   "status": "passed"
 });
 formatter.background({
@@ -1068,7 +1068,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9266366600,
+  "duration": 5884064900,
   "status": "passed"
 });
 formatter.match({
@@ -1085,35 +1085,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 368463500,
+  "duration": 207434700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2343984400,
+  "duration": 1816376000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2005971100,
+  "duration": 2020716800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2117877400,
+  "duration": 9626061600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2248235400,
+  "duration": 2097814200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1176,35 +1176,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5140981300,
+  "duration": 5890125500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2163518900,
+  "duration": 2100323700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2151058600,
+  "duration": 2106921800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1106757500,
+  "duration": 1094135600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1113621000,
+  "duration": 1109578100,
   "status": "passed"
 });
 formatter.match({
@@ -1221,14 +1221,14 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 607775800,
+  "duration": 486111500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 1030355300,
+  "duration": 945650900,
   "status": "passed"
 });
 formatter.match({
@@ -1245,11 +1245,11 @@ formatter.match({
   "location": "UniformDefinition.admin_varifies_the_result(String,String)"
 });
 formatter.result({
-  "duration": 122867500,
+  "duration": 102908000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 526128900,
+  "duration": 173910600,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1314,7 +1314,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3359247400,
+  "duration": 2291126500,
   "status": "passed"
 });
 formatter.background({
@@ -1358,7 +1358,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10333768600,
+  "duration": 5861606200,
   "status": "passed"
 });
 formatter.match({
@@ -1375,35 +1375,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 367738000,
+  "duration": 237495500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2259496600,
+  "duration": 1791394300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2020448600,
+  "duration": 2007909800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2117454900,
+  "duration": 9592023100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2112870600,
+  "duration": 2102758900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1444,7 +1444,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 6366923700,
+  "duration": 5875484600,
   "status": "passed"
 });
 formatter.match({
@@ -1457,7 +1457,7 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_in_Group_by_field(String)"
 });
 formatter.result({
-  "duration": 1174235300,
+  "duration": 1128548500,
   "status": "passed"
 });
 formatter.match({
@@ -1470,22 +1470,22 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_option_in_Orders_status_field(String)"
 });
 formatter.result({
-  "duration": 2188739000,
+  "duration": 2140853300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 1098367600,
+  "duration": 829790200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1043258000,
+  "duration": 271644800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2412566100,
+  "duration": 2316827100,
   "status": "passed"
 });
 formatter.background({
@@ -1529,7 +1529,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10139460600,
+  "duration": 5887950200,
   "status": "passed"
 });
 formatter.match({
@@ -1546,35 +1546,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 438302700,
+  "duration": 237187000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2712350400,
+  "duration": 1824291200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2131384900,
+  "duration": 2013095000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2101827500,
+  "duration": 9733598000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2128245500,
+  "duration": 2075465000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1615,7 +1615,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5060884300,
+  "duration": 5853248100,
   "status": "passed"
 });
 formatter.match({
@@ -1628,7 +1628,7 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_in_Group_by_field(String)"
 });
 formatter.result({
-  "duration": 1194568200,
+  "duration": 1145627900,
   "status": "passed"
 });
 formatter.match({
@@ -1641,18 +1641,18 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_option_in_Orders_status_field(String)"
 });
 formatter.result({
-  "duration": 2114903900,
+  "duration": 2110105500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 1099662400,
+  "duration": 1262598300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 371263200,
+  "duration": 261605900,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1728,7 +1728,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2250525400,
+  "duration": 2396170800,
   "status": "passed"
 });
 formatter.background({
@@ -1772,7 +1772,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9141864100,
+  "duration": 5951593300,
   "status": "passed"
 });
 formatter.match({
@@ -1789,35 +1789,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 416677100,
+  "duration": 245718200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2179442200,
+  "duration": 1813744300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2016630900,
+  "duration": 2020170000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2102039100,
+  "duration": 9600653200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2117639500,
+  "duration": 2080639900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1873,7 +1873,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_orders_page_on_clicking_orders()"
 });
 formatter.result({
-  "duration": 5017314500,
+  "duration": 5900638600,
   "status": "passed"
 });
 formatter.match({
@@ -1898,46 +1898,46 @@ formatter.match({
   "location": "UniformDefinition.admin_enters(String,String,String,String)"
 });
 formatter.result({
-  "duration": 3169530700,
+  "duration": 2669093700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 1059462600,
+  "duration": 974260000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_if_pagination_exists()"
 });
 formatter.result({
-  "duration": 53776600,
+  "duration": 34626100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_for_the_total_page_count()"
 });
 formatter.result({
-  "duration": 45192700,
+  "duration": 38513500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_the_next_button()"
 });
 formatter.result({
-  "duration": 4728172000,
+  "duration": 3276691300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_for_previous_button()"
 });
 formatter.result({
-  "duration": 3289399500,
+  "duration": 2640141400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 518485800,
+  "duration": 367533700,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2052,7 +2052,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2484953200,
+  "duration": 2424310600,
   "status": "passed"
 });
 formatter.background({
@@ -2096,7 +2096,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10148805900,
+  "duration": 6045168600,
   "status": "passed"
 });
 formatter.match({
@@ -2113,35 +2113,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 330268200,
+  "duration": 212338300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2444294300,
+  "duration": 2181545400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2016912900,
+  "duration": 2008980400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2102457900,
+  "duration": 9158693200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2117077500,
+  "duration": 2081338600,
   "status": "passed"
 });
 formatter.scenario({
@@ -2204,35 +2204,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5369052200,
+  "duration": 4874699400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2166395600,
+  "duration": 2120572700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2134492700,
+  "duration": 2126425100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1118090000,
+  "duration": 1105381900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1120259700,
+  "duration": 1097338600,
   "status": "passed"
 });
 formatter.match({
@@ -2249,8 +2249,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 642715200,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:193)\r\n\tat ✽.When Admin enters \"%@!^\u0026\",\"2021-04-23\" in the start date and end date fields(Uniform.feature:64)\r\n",
+  "duration": 421225700,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:195)\r\n\tat ✽.When Admin enters \"%@!^\u0026\",\"2021-04-23\" in the start date and end date fields(Uniform.feature:64)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2276,11 +2276,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 496364300,
+  "duration": 317855200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2665701600,
+  "duration": 2364093800,
   "status": "passed"
 });
 formatter.background({
@@ -2324,7 +2324,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9485599400,
+  "duration": 6775350900,
   "status": "passed"
 });
 formatter.match({
@@ -2341,35 +2341,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 369995800,
+  "duration": 238386900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2237140200,
+  "duration": 1777188000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2022711100,
+  "duration": 2014073400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2140947900,
+  "duration": 8772815800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2125508400,
+  "duration": 2104070700,
   "status": "passed"
 });
 formatter.scenario({
@@ -2432,35 +2432,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5069401800,
+  "duration": 4892087400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2245700600,
+  "duration": 2123616800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2124946900,
+  "duration": 2106888600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1128134100,
+  "duration": 1284371200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1151096400,
+  "duration": 1496310400,
   "status": "passed"
 });
 formatter.match({
@@ -2477,8 +2477,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 624562100,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:198)\r\n\tat ✽.When Admin enters \"acfdefrt\",\"aaswered\" in the start date and end date fields(Uniform.feature:64)\r\n",
+  "duration": 590985100,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:200)\r\n\tat ✽.When Admin enters \"acfdefrt\",\"aaswered\" in the start date and end date fields(Uniform.feature:64)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2504,11 +2504,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 378097300,
+  "duration": 152103600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2614550300,
+  "duration": 3033760400,
   "status": "passed"
 });
 formatter.background({
@@ -2552,7 +2552,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9591215200,
+  "duration": 6504841300,
   "status": "passed"
 });
 formatter.match({
@@ -2569,35 +2569,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 388935200,
+  "duration": 300451900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2632023900,
+  "duration": 2605951400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2015705500,
+  "duration": 2007674500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2219247900,
+  "duration": 2826093700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2118103700,
+  "duration": 2403009900,
   "status": "passed"
 });
 formatter.scenario({
@@ -2660,35 +2660,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 4952230400,
+  "duration": 4922896900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2167199600,
+  "duration": 2141033200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2130596200,
+  "duration": 2125807900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1127157400,
+  "duration": 1105165600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1219266900,
+  "duration": 1080122000,
   "status": "passed"
 });
 formatter.match({
@@ -2705,8 +2705,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 572388000,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:198)\r\n\tat ✽.When Admin enters \"21-12-2021\",\"20-12-2021\" in the start date and end date fields(Uniform.feature:64)\r\n",
+  "duration": 454279600,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:200)\r\n\tat ✽.When Admin enters \"21-12-2021\",\"20-12-2021\" in the start date and end date fields(Uniform.feature:64)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2732,11 +2732,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 306037400,
+  "duration": 204273900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2670918000,
+  "duration": 5937909000,
   "status": "passed"
 });
 formatter.background({
@@ -2780,7 +2780,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9455639100,
+  "duration": 6436346700,
   "status": "passed"
 });
 formatter.match({
@@ -2797,35 +2797,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 357498700,
+  "duration": 254027500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2220654400,
+  "duration": 2051655700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2015890300,
+  "duration": 2021699800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2101420400,
+  "duration": 8922779900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2122485900,
+  "duration": 2117644500,
   "status": "passed"
 });
 formatter.scenario({
@@ -2888,35 +2888,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5453707000,
+  "duration": 5106273400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2162183400,
+  "duration": 2126478800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2125448700,
+  "duration": 2198104600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1117016500,
+  "duration": 1189062700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1149450900,
+  "duration": 1097485500,
   "status": "passed"
 });
 formatter.match({
@@ -2933,8 +2933,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 675582400,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:221)\r\n\tat ✽.When Admin enters \"2021-10-08\",\"2021-06-18\" in the start date and end date fields(Uniform.feature:64)\r\n",
+  "duration": 712975400,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:223)\r\n\tat ✽.When Admin enters \"2021-10-08\",\"2021-06-18\" in the start date and end date fields(Uniform.feature:64)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2960,11 +2960,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 363570900,
+  "duration": 222165600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2537745800,
+  "duration": 6969044200,
   "status": "passed"
 });
 formatter.background({
@@ -3008,7 +3008,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9481572900,
+  "duration": 8824335700,
   "status": "passed"
 });
 formatter.match({
@@ -3025,35 +3025,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 313693400,
+  "duration": 592065700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2560942100,
+  "duration": 14013443600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2016551200,
+  "duration": 2057943200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2103764100,
+  "duration": 10958580000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2122325300,
+  "duration": 2094149900,
   "status": "passed"
 });
 formatter.scenario({
@@ -3116,35 +3116,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5048822100,
+  "duration": 4950115600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2200636000,
+  "duration": 2146903300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2149725000,
+  "duration": 2133579400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1131191000,
+  "duration": 1124656000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1125839900,
+  "duration": 1110356200,
   "status": "passed"
 });
 formatter.match({
@@ -3161,14 +3161,14 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 670514000,
+  "duration": 543548900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 1032787100,
+  "duration": 881100900,
   "status": "passed"
 });
 formatter.match({
@@ -3185,11 +3185,11 @@ formatter.match({
   "location": "UniformDefinition.admin_varifies_the_result(String,String)"
 });
 formatter.result({
-  "duration": 124426200,
+  "duration": 108270100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 451584600,
+  "duration": 330971800,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3254,7 +3254,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4276788300,
+  "duration": 2672050700,
   "status": "passed"
 });
 formatter.background({
@@ -3298,7 +3298,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10107248500,
+  "duration": 6129909300,
   "status": "passed"
 });
 formatter.match({
@@ -3315,35 +3315,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 354864400,
+  "duration": 269519600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2808176000,
+  "duration": 1842653100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2011604500,
+  "duration": 2010238500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2098427900,
+  "duration": 9425140600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2124280000,
+  "duration": 2102613800,
   "status": "passed"
 });
 formatter.scenario({
@@ -3384,7 +3384,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5077988700,
+  "duration": 4994248600,
   "status": "passed"
 });
 formatter.match({
@@ -3397,7 +3397,7 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_in_Group_by_field(String)"
 });
 formatter.result({
-  "duration": 1141110700,
+  "duration": 1215437000,
   "status": "passed"
 });
 formatter.match({
@@ -3410,22 +3410,22 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_option_in_Orders_status_field(String)"
 });
 formatter.result({
-  "duration": 2158376400,
+  "duration": 2660018900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 933700500,
+  "duration": 1081915000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 554313000,
+  "duration": 1097997400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2708768200,
+  "duration": 3017069000,
   "status": "passed"
 });
 formatter.background({
@@ -3469,7 +3469,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10079169900,
+  "duration": 6220297700,
   "status": "passed"
 });
 formatter.match({
@@ -3486,35 +3486,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 405785100,
+  "duration": 270349300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2399107200,
+  "duration": 1965592300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2454113000,
+  "duration": 2015781400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2142594300,
+  "duration": 9716912800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2122731900,
+  "duration": 2203820600,
   "status": "passed"
 });
 formatter.scenario({
@@ -3555,7 +3555,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5098506500,
+  "duration": 5054586200,
   "status": "passed"
 });
 formatter.match({
@@ -3568,7 +3568,7 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_in_Group_by_field(String)"
 });
 formatter.result({
-  "duration": 2028025200,
+  "duration": 1234302600,
   "status": "passed"
 });
 formatter.match({
@@ -3581,18 +3581,18 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_option_in_Orders_status_field(String)"
 });
 formatter.result({
-  "duration": 2120977400,
+  "duration": 2275205100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 945432900,
+  "duration": 1187325600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 676796700,
+  "duration": 182364100,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3668,7 +3668,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3555848900,
+  "duration": 2538962400,
   "status": "passed"
 });
 formatter.background({
@@ -3712,7 +3712,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 10787901400,
+  "duration": 6289726500,
   "status": "passed"
 });
 formatter.match({
@@ -3729,35 +3729,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 385139500,
+  "duration": 483073700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2184937600,
+  "duration": 1950474800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2018278400,
+  "duration": 2019193800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2096328800,
+  "duration": 9280894900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2128740500,
+  "duration": 2120940400,
   "status": "passed"
 });
 formatter.scenario({
@@ -3813,7 +3813,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_tax_page_on_clicking_tax()"
 });
 formatter.result({
-  "duration": 5292443200,
+  "duration": 5282269100,
   "status": "passed"
 });
 formatter.match({
@@ -3838,46 +3838,46 @@ formatter.match({
   "location": "UniformDefinition.admin_enters(String,String,String,String)"
 });
 formatter.result({
-  "duration": 2877088000,
+  "duration": 2874616700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 1000187500,
+  "duration": 891929700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_if_pagination_exists()"
 });
 formatter.result({
-  "duration": 40731400,
+  "duration": 33173900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_for_the_total_page_count()"
 });
 formatter.result({
-  "duration": 52037100,
+  "duration": 65385900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_the_next_button()"
 });
 formatter.result({
-  "duration": 4227514500,
+  "duration": 2967720700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_for_previous_button()"
 });
 formatter.result({
-  "duration": 2906752300,
+  "duration": 2201709200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 645608900,
+  "duration": 4348359800,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3892,13 +3892,7 @@ formatter.scenarioOutline({
   "description": "",
   "id": "automation-testing-for-uniform-website;validate-sales-shipping-start-date-and-end-date-functionality",
   "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 102,
-      "name": "@tag1"
-    }
-  ]
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 104,
@@ -3998,7 +3992,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2481131100,
+  "duration": 4311469800,
   "status": "passed"
 });
 formatter.background({
@@ -4042,7 +4036,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9226236200,
+  "duration": 6392982300,
   "status": "passed"
 });
 formatter.match({
@@ -4059,35 +4053,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 362898500,
+  "duration": 570535900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2629784000,
+  "duration": 2479769000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2010892800,
+  "duration": 2011120900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2098838500,
+  "duration": 9147182900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2118792400,
+  "duration": 2120603900,
   "status": "passed"
 });
 formatter.scenario({
@@ -4096,13 +4090,7 @@ formatter.scenario({
   "description": "",
   "id": "automation-testing-for-uniform-website;validate-sales-shipping-start-date-and-end-date-functionality;;2",
   "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 102,
-      "name": "@tag1"
-    }
-  ]
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 104,
@@ -4156,35 +4144,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5101135200,
+  "duration": 4896380900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2183147400,
+  "duration": 2131050900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2126513100,
+  "duration": 2121653200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1120911800,
+  "duration": 1141234900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1129158200,
+  "duration": 1124498300,
   "status": "passed"
 });
 formatter.match({
@@ -4201,8 +4189,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 526004000,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:193)\r\n\tat ✽.When Admin enters \"%@!^\u0026\",\"2021-04-23\" in the start date and end date fields(Uniform.feature:109)\r\n",
+  "duration": 567176700,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:195)\r\n\tat ✽.When Admin enters \"%@!^\u0026\",\"2021-04-23\" in the start date and end date fields(Uniform.feature:109)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -4228,11 +4216,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 332154200,
+  "duration": 97859600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2568928500,
+  "duration": 2389390700,
   "status": "passed"
 });
 formatter.background({
@@ -4276,7 +4264,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9374262700,
+  "duration": 5863002900,
   "status": "passed"
 });
 formatter.match({
@@ -4293,35 +4281,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 340093400,
+  "duration": 245985800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2162203300,
+  "duration": 11704350200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2019819700,
+  "duration": 2092503400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2102680200,
+  "duration": 2097296800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2122866100,
+  "duration": 2122243800,
   "status": "passed"
 });
 formatter.scenario({
@@ -4330,13 +4318,7 @@ formatter.scenario({
   "description": "",
   "id": "automation-testing-for-uniform-website;validate-sales-shipping-start-date-and-end-date-functionality;;3",
   "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 102,
-      "name": "@tag1"
-    }
-  ]
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 104,
@@ -4390,35 +4372,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5608106600,
+  "duration": 4913317300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2330505100,
+  "duration": 2195577500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2139610900,
+  "duration": 2152551500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1123126200,
+  "duration": 1132708900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1119051000,
+  "duration": 1168524600,
   "status": "passed"
 });
 formatter.match({
@@ -4435,8 +4417,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 628169200,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:198)\r\n\tat ✽.When Admin enters \"acfbhydt\",\"something\" in the start date and end date fields(Uniform.feature:109)\r\n",
+  "duration": 463023600,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:200)\r\n\tat ✽.When Admin enters \"acfbhydt\",\"something\" in the start date and end date fields(Uniform.feature:109)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -4462,11 +4444,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 279885900,
+  "duration": 171462900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2487445700,
+  "duration": 2546582700,
   "status": "passed"
 });
 formatter.background({
@@ -4510,7 +4492,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9463390700,
+  "duration": 6489613600,
   "status": "passed"
 });
 formatter.match({
@@ -4527,35 +4509,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 342438300,
+  "duration": 376718300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2195855800,
+  "duration": 1960631300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2023019400,
+  "duration": 2018388800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2102120100,
+  "duration": 9756564900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2116625200,
+  "duration": 2104451700,
   "status": "passed"
 });
 formatter.scenario({
@@ -4564,13 +4546,7 @@ formatter.scenario({
   "description": "",
   "id": "automation-testing-for-uniform-website;validate-sales-shipping-start-date-and-end-date-functionality;;4",
   "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 102,
-      "name": "@tag1"
-    }
-  ]
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 104,
@@ -4624,35 +4600,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5138131400,
+  "duration": 5080969600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2156965300,
+  "duration": 2355651000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2132811400,
+  "duration": 2110472000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1121595000,
+  "duration": 1143209700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1110685500,
+  "duration": 1583603300,
   "status": "passed"
 });
 formatter.match({
@@ -4669,8 +4645,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 701519400,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:198)\r\n\tat ✽.When Admin enters \"21-12-2021\",\"20-12-2021\" in the start date and end date fields(Uniform.feature:109)\r\n",
+  "duration": 674195000,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:200)\r\n\tat ✽.When Admin enters \"21-12-2021\",\"20-12-2021\" in the start date and end date fields(Uniform.feature:109)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -4696,11 +4672,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 562839700,
+  "duration": 345087800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2406281500,
+  "duration": 4511197600,
   "status": "passed"
 });
 formatter.background({
@@ -4744,7 +4720,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9470132100,
+  "duration": 6187473800,
   "status": "passed"
 });
 formatter.match({
@@ -4761,35 +4737,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 347969900,
+  "duration": 257061200,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2182456200,
+  "duration": 1823600500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2027685600,
+  "duration": 2012435000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2122302200,
+  "duration": 9704293300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2126384400,
+  "duration": 2090950100,
   "status": "passed"
 });
 formatter.scenario({
@@ -4798,13 +4774,7 @@ formatter.scenario({
   "description": "",
   "id": "automation-testing-for-uniform-website;validate-sales-shipping-start-date-and-end-date-functionality;;5",
   "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 102,
-      "name": "@tag1"
-    }
-  ]
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 104,
@@ -4858,35 +4828,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5067557900,
+  "duration": 5022522800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2188702000,
+  "duration": 2155689000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2118870300,
+  "duration": 2179245600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1097912300,
+  "duration": 1130131900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1115519900,
+  "duration": 1118407700,
   "status": "passed"
 });
 formatter.match({
@@ -4903,8 +4873,8 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 627625900,
-  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:221)\r\n\tat ✽.When Admin enters \"2021-10-08\",\"2021-06-18\" in the start date and end date fields(Uniform.feature:109)\r\n",
+  "duration": 482478600,
+  "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.fail(Assert.java:64)\r\n\tat stepDefinition1.UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(UniformDefinition.java:223)\r\n\tat ✽.When Admin enters \"2021-10-08\",\"2021-06-18\" in the start date and end date fields(Uniform.feature:109)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -4930,11 +4900,11 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 342406700,
+  "duration": 91284900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2798541400,
+  "duration": 2401145900,
   "status": "passed"
 });
 formatter.background({
@@ -4978,7 +4948,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9747262200,
+  "duration": 5988888400,
   "status": "passed"
 });
 formatter.match({
@@ -4995,35 +4965,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 346330800,
+  "duration": 316759300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2422427500,
+  "duration": 1796268900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2015385800,
+  "duration": 2019501100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2098711300,
+  "duration": 9568388100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2126486700,
+  "duration": 2086607200,
   "status": "passed"
 });
 formatter.scenario({
@@ -5032,13 +5002,7 @@ formatter.scenario({
   "description": "",
   "id": "automation-testing-for-uniform-website;validate-sales-shipping-start-date-and-end-date-functionality;;6",
   "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 102,
-      "name": "@tag1"
-    }
-  ]
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 104,
@@ -5092,35 +5056,35 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5408362800,
+  "duration": 5405602000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_start_field()"
 });
 formatter.result({
-  "duration": 2146405800,
+  "duration": 2135359900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_startdate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 2115582300,
+  "duration": 2260265800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_selects_the_calendar_icon_from_date_end_field()"
 });
 formatter.result({
-  "duration": 1117845000,
+  "duration": 1125171800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_able_to_select_a_enddate_from_the_calendar()"
 });
 formatter.result({
-  "duration": 1127120700,
+  "duration": 1084269900,
   "status": "passed"
 });
 formatter.match({
@@ -5137,14 +5101,14 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_in_the_start_date_and_end_date_fields(String,String)"
 });
 formatter.result({
-  "duration": 613225500,
+  "duration": 760612300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 930699700,
+  "duration": 849800100,
   "status": "passed"
 });
 formatter.match({
@@ -5161,11 +5125,11 @@ formatter.match({
   "location": "UniformDefinition.admin_varifies_the_result(String,String)"
 });
 formatter.result({
-  "duration": 89461700,
+  "duration": 68883500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 334975600,
+  "duration": 100788300,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5230,7 +5194,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6584611500,
+  "duration": 2411909200,
   "status": "passed"
 });
 formatter.background({
@@ -5274,7 +5238,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 11171802200,
+  "duration": 6057997100,
   "status": "passed"
 });
 formatter.match({
@@ -5291,35 +5255,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 336206600,
+  "duration": 596693100,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2468535600,
+  "duration": 1766985700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2016557100,
+  "duration": 2017554000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2103982700,
+  "duration": 9469119700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2137033400,
+  "duration": 2105521000,
   "status": "passed"
 });
 formatter.scenario({
@@ -5360,7 +5324,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5347074400,
+  "duration": 4905996400,
   "status": "passed"
 });
 formatter.match({
@@ -5373,7 +5337,7 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_in_Group_by_field(String)"
 });
 formatter.result({
-  "duration": 1119755300,
+  "duration": 1111586000,
   "status": "passed"
 });
 formatter.match({
@@ -5386,22 +5350,22 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_option_in_Orders_status_field(String)"
 });
 formatter.result({
-  "duration": 2129376700,
+  "duration": 2189988000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 964740000,
+  "duration": 925440800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 306288100,
+  "duration": 166516300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2385659100,
+  "duration": 2493996200,
   "status": "passed"
 });
 formatter.background({
@@ -5445,7 +5409,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9646995200,
+  "duration": 6335900100,
   "status": "passed"
 });
 formatter.match({
@@ -5462,35 +5426,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 382406900,
+  "duration": 429279900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2308069400,
+  "duration": 1965999400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2013996900,
+  "duration": 2018148400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2093575500,
+  "duration": 9162757800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2110493200,
+  "duration": 2104387300,
   "status": "passed"
 });
 formatter.scenario({
@@ -5531,7 +5495,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5058733100,
+  "duration": 4845963800,
   "status": "passed"
 });
 formatter.match({
@@ -5544,7 +5508,7 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_in_Group_by_field(String)"
 });
 formatter.result({
-  "duration": 1189817600,
+  "duration": 1150001900,
   "status": "passed"
 });
 formatter.match({
@@ -5557,18 +5521,18 @@ formatter.match({
   "location": "UniformDefinition.admin_selects_an_option_in_Orders_status_field(String)"
 });
 formatter.result({
-  "duration": 2125029300,
+  "duration": 2096115000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 933093000,
+  "duration": 1341229000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 368082000,
+  "duration": 2119263500,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5644,7 +5608,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2549093500,
+  "duration": 2298323900,
   "status": "passed"
 });
 formatter.background({
@@ -5688,7 +5652,7 @@ formatter.match({
   "location": "UniformDefinition.admin_is_on_the_login_page()"
 });
 formatter.result({
-  "duration": 9814880100,
+  "duration": 6078669500,
   "status": "passed"
 });
 formatter.match({
@@ -5705,35 +5669,35 @@ formatter.match({
   "location": "UniformDefinition.admin_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 327718400,
+  "duration": 233147900,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 2240126400,
+  "duration": 1781754700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_is_redirected_to_the_dashboard_of_UniformStore_page()"
 });
 formatter.result({
-  "duration": 2010481800,
+  "duration": 2018031500,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Reports_section()"
 });
 formatter.result({
-  "duration": 2097964900,
+  "duration": 9459619800,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_Sales_section()"
 });
 formatter.result({
-  "duration": 2118652100,
+  "duration": 2162300900,
   "status": "passed"
 });
 formatter.scenario({
@@ -5789,7 +5753,7 @@ formatter.match({
   "location": "UniformDefinition.admin_navigates_to_the_shipping_page_on_clicking_shipping()"
 });
 formatter.result({
-  "duration": 5081082500,
+  "duration": 5035785700,
   "status": "passed"
 });
 formatter.match({
@@ -5814,46 +5778,46 @@ formatter.match({
   "location": "UniformDefinition.admin_enters(String,String,String,String)"
 });
 formatter.result({
-  "duration": 2812602800,
+  "duration": 2699579300,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_clicks_the_filter_button()"
 });
 formatter.result({
-  "duration": 952929200,
+  "duration": 863207000,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_if_pagination_exists()"
 });
 formatter.result({
-  "duration": 38346800,
+  "duration": 25552700,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_for_the_total_page_count()"
 });
 formatter.result({
-  "duration": 34351400,
+  "duration": 44836600,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_the_next_button()"
 });
 formatter.result({
-  "duration": 7737715000,
+  "duration": 6240569400,
   "status": "passed"
 });
 formatter.match({
   "location": "UniformDefinition.admin_checks_for_previous_button()"
 });
 formatter.result({
-  "duration": 5970177000,
+  "duration": 6460145600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 333206800,
+  "duration": 221129500,
   "status": "passed"
 });
 });

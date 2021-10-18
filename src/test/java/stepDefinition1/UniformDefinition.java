@@ -43,6 +43,7 @@ public class UniformDefinition {
 		catch(Exception ex)
 		{
 			System.out.println("1.Some exception "+ex+" occurred");
+			Assert.fail();
 		}
 	}
 
@@ -55,6 +56,7 @@ public class UniformDefinition {
 		 catch(Exception ex)
 		{
 			 System.out.println("2.Some exception "+ex+" occurred");
+			 Assert.fail();
 		}
 	}
 
@@ -84,6 +86,7 @@ public class UniformDefinition {
 		catch(Exception ex)
 		{
 			System.out.println("4.Some exception "+ex+" occurred");
+			Assert.fail();
 		}
 	}
 
@@ -97,6 +100,7 @@ public class UniformDefinition {
 		catch(Exception ex)
 		{
 			System.out.println("5.Some exception "+ex+" occurred");
+			Assert.fail();
 		}
 	}
    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -105,13 +109,8 @@ public class UniformDefinition {
 		try{
 			driver.findElement(By.xpath("//*[@id='reports']/ul/li[1]/ul/li[1]/a")).click();
 			System.out.println("6.Orders");
-			Thread.sleep(2000);
-		}
-		catch(Exception ex)
-		{
-			System.out.println("6.Some exception "+ex+" occurred");
-		}
-		try{
+			Thread.sleep(3000);
+			
 			String expectedTitle = "Sales Report";
 			String actualTitle = driver.getTitle();
 			Assert.assertEquals(expectedTitle, actualTitle);
@@ -120,9 +119,10 @@ public class UniformDefinition {
 		}
 		catch(Exception ex)
 		{
-			System.out.println("7.Some exception "+ex+" occurred");
+			System.out.println("6.Some exception "+ex+" occurred");
 			Assert.fail();
 		}
+		
 	}
 
 	@When("^Admin selects the calendar icon from date start field$")
@@ -136,6 +136,7 @@ public class UniformDefinition {
 		   catch(Exception ex)
 		   {
 			   System.out.println("8.Some exception "+ex+" occurred");
+			   Assert.fail();
 		   }
 	}
 
@@ -160,6 +161,7 @@ public class UniformDefinition {
 		   catch(Exception ex)
 		   {
 			   System.out.println("10.Some exception "+ex+" occurred");
+			   Assert.fail();
 		   }
 	}
 
@@ -446,7 +448,7 @@ public class UniformDefinition {
 	public void admin_navigates_to_the_shipping_page_on_clicking_shipping(){
 		try{
 			driver.findElement(By.xpath("//*[@id='reports']/ul/li[1]/ul/li[3]/a")).click();
-			System.out.println("23.Shipping");
+			System.out.println("24.Shipping");
 			Thread.sleep(2000);
 			
 			String expectedTitle = "Shipping Report";
